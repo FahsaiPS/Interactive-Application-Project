@@ -1,4 +1,5 @@
 # Interactive-Application-Project (Spooky Run)
+WebGL2, ThreeJS and Blender for game character 3D model
 
 ## Interface
 ![image](https://github.com/FahsaiPS/Interactive-Application-Project/assets/115086617/36d8c779-5c5a-444c-84a6-b1c4801ade49)
